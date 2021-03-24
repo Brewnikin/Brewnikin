@@ -7,6 +7,7 @@ I am a IT Administrator and graduated from Cal Poly Pomona College of Business, 
 - 👋 AKA @Brewnikin
 - 👶 Father of one
 - 🍏 Beginner's mindset and curiosity
+- 📚 Book worm 
 - 👀 I’m interested in Information Security!
 - 💞️ I’m looking to collaborate on all security tools and capture the flag challenges!
 - 🌱 I’m currently learning buffer overflows and privilege escalation!
