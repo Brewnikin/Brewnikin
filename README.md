@@ -8,8 +8,8 @@ I am a IT Administrator and graduated from Cal Poly Pomona College of Business, 
 - 👶 Father of one
 - 🍏 Beginner's mindset and curiosity
 - 👀 I’m interested in Information Security!
-- 🌱 I’m currently learning manual exploitation and privilege escalation!
 - 💞️ I’m looking to collaborate on all security tools and capture the flag challenges!
+- 🌱 I’m currently learning buffer overflows and privilege escalation!
 - 🤔 I’m looking for help with advancing my career and building valuable skills!
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=Brewnikin alt=Brewnikin /> </p>
