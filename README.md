@@ -9,8 +9,8 @@
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=Brewnikin alt=Brewnikin /> </p>
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=Brewnikin&theme=vue-dark&show_icons=true&include_all_commits=true)](https://github.com/Brewnikin/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brewnikin&theme=vue-dark&layout=compact)](https://github.com/Brewnikin/github-readme-stats)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=Brewnikin&theme=graywhite&show_icons=true&include_all_commits=true)](https://github.com/Brewnikin/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brewnikin&theme=graywhite&layout=compact)](https://github.com/Brewnikin/github-readme-stats)
 
 <!---
 Brewnikin/Brewnikin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
