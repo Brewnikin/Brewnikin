@@ -4,9 +4,9 @@ I am a IT Administrator and graduated from Cal Poly Pomona College of Business, 
 [![Gmail Badge](https://img.shields.io/badge/-christian620hernandez@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:christian620hernandez@gmail.com)](mailto:christian620hernandez@gmail.com) 
 [![Linkedin Badge](https://img.shields.io/badge/-christianmhernandez1-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/christianmhernandez1/)](https://www.linkedin.com/in/christianmhernandez1/) [![Github Badge](https://img.shields.io/badge/-Brewnikin-grey?style=flat&logo=github&logoColor=white&link=https://github.com/Brewnikin/)](https://www.github.com/Brewnikin/) [![Twitter Badge](https://img.shields.io/badge/-Brewnikin-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/Brewnikin/)](https://www.twitter.com/Brewnikin/) 
 ## About me
-- 👋 AKA @Brewnikin
 - 📚 Book worm
 - 👶 Father of one
+- 👋 AKA @Brewnikin
 - 🍏 Beginner's mindset and curiosity
 - 👀 I’m interested in Information Security!
 - 💞️ I’m looking to collaborate on all security tools and capture the flag challenges!
