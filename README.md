@@ -1,5 +1,5 @@
 ## Hey 👋, This is Christian Hernandez
-I am a IT Administrator and graduated from Cal Poly Pomona College of Business, with a degree in Computer Information Systems. I have my eJPT and I'm currently working to get my PNPT Certificate. In my free time I enjoy being with my family, trying new foods, lifting weights, running, and watching movies with my friends. 
+I am a Penetration Tester and graduated from Cal Poly Pomona College of Business, with a degree in Computer Information Systems. I have my eJPT and PNPT Certification. In my free time I enjoy being with my family, ju jitsu, lifting weights, running, and watching movies with my friends. 
 
 [![Gmail Badge](https://img.shields.io/badge/-christian620hernandez@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:christian620hernandez@gmail.com)](mailto:christian620hernandez@gmail.com) 
 [![Linkedin Badge](https://img.shields.io/badge/-christianmhernandez1-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/christianmhernandez1/)](https://www.linkedin.com/in/christianmhernandez1/) [![Github Badge](https://img.shields.io/badge/-Brewnikin-grey?style=flat&logo=github&logoColor=white&link=https://github.com/Brewnikin/)](https://www.github.com/Brewnikin/) [![Twitter Badge](https://img.shields.io/badge/-Brewnikin-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/Brewnikin/)](https://www.twitter.com/Brewnikin/) 
@@ -10,7 +10,7 @@ I am a IT Administrator and graduated from Cal Poly Pomona College of Business, 
 - 🍏 Beginner's mindset and curiosity
 - 👀 I’m interested in Information Security!
 - 💞️ I’m looking to collaborate on all security tools and capture the flag challenges!
-- 🌱 I’m currently learning buffer overflows and privilege escalation!
+- 🌱 I’m currently learning python!
 - 🤔 I’m looking for help with advancing my career and building valuable skills!
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=Brewnikin alt=Brewnikin /> </p>
